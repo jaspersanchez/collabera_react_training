@@ -1,26 +1,112 @@
 {
-  "todoList": [
+  "weatherList": [
     {
-      "text": "Learn React",
-      "isDone": true,
+      "cityName": "sf",
+      "temp": 30,
+      "humidity": 80,
+      "id": 1
+    },
+    {
+      "cityName": "s",
+      "temp": 30,
+      "humidity": 80,
       "id": 2
     },
     {
-      "text": "fasdfadsf",
-      "isDone": false,
-      "id": 3
-    }
-  ],
-  "weatherList": [
-    {
-      "cityName": "Ahmedabad",
+      "cityName": "sdf",
       "temp": 30,
-      "tempType": "C"
+      "humidity": 80,
+      "id": 3
     },
     {
-      "cityName": "Mumbai",
+      "cityName": "sadf",
       "temp": 30,
-      "tempType": "C"
+      "humidity": 80,
+      "id": 4
+    },
+    {
+      "cityName": "sadfasf",
+      "temp": 30,
+      "humidity": 80,
+      "id": 5
+    },
+    {
+      "cityName": "sfd",
+      "temp": 30,
+      "humidity": 80,
+      "id": 6
+    },
+    {
+      "cityName": "asdf",
+      "temp": 30,
+      "humidity": 80,
+      "id": 7
+    },
+    {
+      "cityName": "sdfsdf",
+      "temp": 30,
+      "humidity": 80,
+      "id": 8
+    },
+    {
+      "cityName": "sf",
+      "temp": 30,
+      "humidity": 80,
+      "id": 9
+    },
+    {
+      "cityName": "sdf",
+      "temp": 30,
+      "humidity": 80,
+      "id": 10
+    },
+    {
+      "cityName": "sdfsf",
+      "temp": 30,
+      "humidity": 80,
+      "id": 11
+    },
+    {
+      "cityName": "sdfds",
+      "temp": 30,
+      "humidity": 80,
+      "id": 12
+    },
+    {
+      "cityName": "sdf",
+      "temp": 30,
+      "humidity": 80,
+      "id": 13
+    },
+    {
+      "cityName": "test",
+      "temp": 30,
+      "humidity": 80,
+      "id": 14
+    },
+    {
+      "cityName": "sf",
+      "temp": 30,
+      "humidity": 80,
+      "id": 15
+    },
+    {
+      "cityName": "asdf",
+      "temp": 30,
+      "humidity": 80,
+      "id": 16
+    },
+    {
+      "cityName": "s",
+      "temp": 30,
+      "humidity": 80,
+      "id": 17
+    },
+    {
+      "cityName": "test",
+      "temp": 30,
+      "humidity": 80,
+      "id": 18
     }
   ]
 }
